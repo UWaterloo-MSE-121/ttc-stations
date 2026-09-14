@@ -5,9 +5,6 @@ one small CSV file per year from 2012 to 2017. Prepared for MSE 121 at the
 University of Waterloo as a first dataset for learning to work with data at the
 command line and in Python.
 
-Each file is about 74 rows. The whole thing fits on a screen, and every row is
-a place you may have stood.
-
 ## Files
 
 | file | year | rows |
