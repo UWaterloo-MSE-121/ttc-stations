@@ -23,15 +23,16 @@ Plain CSV: comma-separated, one header row, no quoting. No field contains a
 comma, so the files can be split on commas with any tool.
 
 ```
-rank,station,line,to_platform,from_platform,total
-1,Bloor-Yonge,1 Yonge-University,93924,110703,204627
-2,Bloor-Yonge,2 Bloor-Danforth,96309,100155,196464
-3,Union,1 Yonge-University,67881,60774,128655
+station,line,to_platform,from_platform,total
+Bathurst,2 Bloor-Danforth,11545,15358,26903
+Bay,2 Bloor-Danforth,14984,17076,32060
+Bayview,4 Sheppard,4149,4382,8531
 ```
+
+Rows are in alphabetical order by station, then by line.
 
 | column | meaning |
 |---|---|
-| `rank` | Position by `total`: 1 is the busiest station in that year. |
 | `station` | Station name. |
 | `line` | The line the platform is on: `1 Yonge-University`, `2 Bloor-Danforth`, `3 Scarborough`, or `4 Sheppard`. |
 | `to_platform` | Riders going to the platform to board a train, on a typical weekday. |
@@ -60,9 +61,6 @@ published, because rounding either value would break `to + from = total`.
 
 **One station was renamed.** Downsview became Sheppard West in 2017, when line
 1 was extended past it. Each file uses that year's name.
-
-**Ranks are the source's**, not recomputed. In the 2015 file a few are out of
-order by `total`.
 
 ## Source
 
@@ -99,6 +97,10 @@ and no count was changed. What changed:
 - **Column names were made plain.** `To Trains` and `To` became
   `to_platform`; `From Trains` and `From` became `from_platform`; `Totals` and
   `Total` became `total`.
+- **The rank column was dropped and the rows re-sorted.** The City lists
+  stations from busiest to quietest with a rank number. Here the rows are in
+  alphabetical order by station and line, so that finding the busiest station
+  is something you compute rather than something you read off the first line.
 
 The conversion is done by a script in the course repository, and every row was
 checked so that `to_platform + from_platform` equals `total`.

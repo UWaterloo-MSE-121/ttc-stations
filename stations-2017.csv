@@ -1,75 +1,75 @@
-rank,station,line,to_platform,from_platform,total
-1,Bloor-Yonge,1 Yonge-University,93924,110703,204627
-2,Bloor-Yonge,2 Bloor-Danforth,96309,100155,196464
-3,Union,1 Yonge-University,67881,60774,128655
-4,St. George,1 Yonge-University,62131,64797,126928
-5,St. George,2 Bloor-Danforth,62668,62508,125176
-6,Finch,1 Yonge-University,43356,48707,92063
-7,Sheppard-Yonge,1 Yonge-University,39903,39812,79715
-8,Dundas,1 Yonge-University,34807,38756,73563
-9,Kennedy,2 Bloor-Danforth,35447,36934,72381
-10,Eglinton,1 Yonge-University,29147,39377,68524
-11,King,1 Yonge-University,26806,33689,60495
-12,St. Andrew,1 Yonge-University,28255,29222,57477
-13,Kipling,2 Bloor-Danforth,24433,24908,49341
-14,Queen,1 Yonge-University,25035,23666,48701
-15,Queen's Park,1 Yonge-University,22574,23891,46465
-16,Sheppard-Yonge,4 Sheppard,23295,22451,45746
-17,College,1 Yonge-University,19121,25252,44373
-18,Sheppard West,1 Yonge-University,21555,20044,41599
-19,Islington,2 Bloor-Danforth,18770,20480,39250
-20,Don Mills,4 Sheppard,17242,19803,37045
-21,St. Clair,1 Yonge-University,17842,18781,36623
-22,Broadview,2 Bloor-Danforth,16817.5,17278.5,34096
-23,St. Patrick,1 Yonge-University,16430,17626,34056
-24,Warden,2 Bloor-Danforth,16733,16409,33142
-25,Bay,2 Bloor-Danforth,14984,17076,32060
-26,Spadina,2 Bloor-Danforth,15307,16635,31942
-27,Kennedy,3 Scarborough,12146,18974,31120
-28,Victoria Park,2 Bloor-Danforth,13944,16839,30783
-29,Ossington,2 Bloor-Danforth,13998,16102,30100
-30,Dundas West,2 Bloor-Danforth,12723,16630,29353
-31,Dufferin,2 Bloor-Danforth,13742,14876,28618
-32,York Mills,1 Yonge-University,14335,14120,28455
-33,St. Clair West,1 Yonge-University,14333,13649,27982
-34,Pape,2 Bloor-Danforth,13226,13853,27079
-35,Bathurst,2 Bloor-Danforth,11545,15358,26903
-36,Sherbourne,2 Bloor-Danforth,12985,13601,26586
-37,Wilson,1 Yonge-University,15605,10704,26309
-38,Davisville,1 Yonge-University,11044,14950,25994
-39,Lawrence,1 Yonge-University,12406,13426,25832
-40,North York Centre,1 Yonge-University,12789,12595,25384
-41,Main Street,2 Bloor-Danforth,11669,12277,23946
-42,Osgoode,1 Yonge-University,11201,12468,23669
-43,Wellesley,1 Yonge-University,10231,13282,23513
-44,Scarborough Centre,3 Scarborough,10057,12996,23053
-45,Royal York,2 Bloor-Danforth,10835,10968,21803
-46,Yorkdale,1 Yonge-University,10237,11315,21552
-47,Eglinton West,1 Yonge-University,10730,9998,20728
-48,Runnymede,2 Bloor-Danforth,9533,10578,20111
-49,Jane,2 Bloor-Danforth,10121,9984,20105
-50,Lawrence West,1 Yonge-University,9074,10668,19742
-51,Lansdowne,2 Bloor-Danforth,9799,9197,18996
-52,Keele,2 Bloor-Danforth,8611,8381,16992
-53,Coxwell,2 Bloor-Danforth,7364,8120,15484
-54,Woodbine,2 Bloor-Danforth,6864,8100,14964
-55,Spadina,1 Yonge-University,5918,6698,12616
-56,Christie,2 Bloor-Danforth,6210,6301,12511
-57,High Park,2 Bloor-Danforth,6359,5716,12075
-58,Museum,1 Yonge-University,5363,6473,11836
-59,Donlands,2 Bloor-Danforth,6027,5218,11245
-60,Greenwood,2 Bloor-Danforth,5253,5828,11081
-61,Castle Frank,2 Bloor-Danforth,4193,4697,8890
-62,Bayview,4 Sheppard,4149,4382,8531
-63,Dupont,1 Yonge-University,4141,4357,8498
-64,Lawrence East,3 Scarborough,4304,3625,7929
-65,Rosedale,1 Yonge-University,3738,4028,7766
-66,Old Mill,2 Bloor-Danforth,3984,3768,7752
-67,Glencairn,1 Yonge-University,3457,3161,6618
-68,Leslie,4 Sheppard,2989,3000,5989
-69,Chester,2 Bloor-Danforth,2726,3078,5804
-70,Summerhill,1 Yonge-University,2773,2940,5713
-71,Mccowan,3 Scarborough,2572,1289,3861
-72,Bessarion,4 Sheppard,1512,1476,2988
-73,Midland,3 Scarborough,1338,1100,2438
-74,Ellesmere,3 Scarborough,1086,684,1770
+station,line,to_platform,from_platform,total
+Bathurst,2 Bloor-Danforth,11545,15358,26903
+Bay,2 Bloor-Danforth,14984,17076,32060
+Bayview,4 Sheppard,4149,4382,8531
+Bessarion,4 Sheppard,1512,1476,2988
+Bloor-Yonge,1 Yonge-University,93924,110703,204627
+Bloor-Yonge,2 Bloor-Danforth,96309,100155,196464
+Broadview,2 Bloor-Danforth,16817.5,17278.5,34096
+Castle Frank,2 Bloor-Danforth,4193,4697,8890
+Chester,2 Bloor-Danforth,2726,3078,5804
+Christie,2 Bloor-Danforth,6210,6301,12511
+College,1 Yonge-University,19121,25252,44373
+Coxwell,2 Bloor-Danforth,7364,8120,15484
+Davisville,1 Yonge-University,11044,14950,25994
+Don Mills,4 Sheppard,17242,19803,37045
+Donlands,2 Bloor-Danforth,6027,5218,11245
+Dufferin,2 Bloor-Danforth,13742,14876,28618
+Dundas,1 Yonge-University,34807,38756,73563
+Dundas West,2 Bloor-Danforth,12723,16630,29353
+Dupont,1 Yonge-University,4141,4357,8498
+Eglinton,1 Yonge-University,29147,39377,68524
+Eglinton West,1 Yonge-University,10730,9998,20728
+Ellesmere,3 Scarborough,1086,684,1770
+Finch,1 Yonge-University,43356,48707,92063
+Glencairn,1 Yonge-University,3457,3161,6618
+Greenwood,2 Bloor-Danforth,5253,5828,11081
+High Park,2 Bloor-Danforth,6359,5716,12075
+Islington,2 Bloor-Danforth,18770,20480,39250
+Jane,2 Bloor-Danforth,10121,9984,20105
+Keele,2 Bloor-Danforth,8611,8381,16992
+Kennedy,2 Bloor-Danforth,35447,36934,72381
+Kennedy,3 Scarborough,12146,18974,31120
+King,1 Yonge-University,26806,33689,60495
+Kipling,2 Bloor-Danforth,24433,24908,49341
+Lansdowne,2 Bloor-Danforth,9799,9197,18996
+Lawrence,1 Yonge-University,12406,13426,25832
+Lawrence East,3 Scarborough,4304,3625,7929
+Lawrence West,1 Yonge-University,9074,10668,19742
+Leslie,4 Sheppard,2989,3000,5989
+Main Street,2 Bloor-Danforth,11669,12277,23946
+Mccowan,3 Scarborough,2572,1289,3861
+Midland,3 Scarborough,1338,1100,2438
+Museum,1 Yonge-University,5363,6473,11836
+North York Centre,1 Yonge-University,12789,12595,25384
+Old Mill,2 Bloor-Danforth,3984,3768,7752
+Osgoode,1 Yonge-University,11201,12468,23669
+Ossington,2 Bloor-Danforth,13998,16102,30100
+Pape,2 Bloor-Danforth,13226,13853,27079
+Queen,1 Yonge-University,25035,23666,48701
+Queen's Park,1 Yonge-University,22574,23891,46465
+Rosedale,1 Yonge-University,3738,4028,7766
+Royal York,2 Bloor-Danforth,10835,10968,21803
+Runnymede,2 Bloor-Danforth,9533,10578,20111
+Scarborough Centre,3 Scarborough,10057,12996,23053
+Sheppard West,1 Yonge-University,21555,20044,41599
+Sheppard-Yonge,1 Yonge-University,39903,39812,79715
+Sheppard-Yonge,4 Sheppard,23295,22451,45746
+Sherbourne,2 Bloor-Danforth,12985,13601,26586
+Spadina,1 Yonge-University,5918,6698,12616
+Spadina,2 Bloor-Danforth,15307,16635,31942
+St. Andrew,1 Yonge-University,28255,29222,57477
+St. Clair,1 Yonge-University,17842,18781,36623
+St. Clair West,1 Yonge-University,14333,13649,27982
+St. George,1 Yonge-University,62131,64797,126928
+St. George,2 Bloor-Danforth,62668,62508,125176
+St. Patrick,1 Yonge-University,16430,17626,34056
+Summerhill,1 Yonge-University,2773,2940,5713
+Union,1 Yonge-University,67881,60774,128655
+Victoria Park,2 Bloor-Danforth,13944,16839,30783
+Warden,2 Bloor-Danforth,16733,16409,33142
+Wellesley,1 Yonge-University,10231,13282,23513
+Wilson,1 Yonge-University,15605,10704,26309
+Woodbine,2 Bloor-Danforth,6864,8100,14964
+York Mills,1 Yonge-University,14335,14120,28455
+Yorkdale,1 Yonge-University,10237,11315,21552
